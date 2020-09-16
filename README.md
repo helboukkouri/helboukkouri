@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning the C programming language 😨
 - 👯 I’m looking to collaborate with other PhD students/Researchers who work on word embeddings in specialized domains
 - 🥅 2021 Goals: Defend my PhD, learn C and C++, improve my computer science skills & brush up on my maths/statistics
-- ⚡ Fun fact: I love cooking, whisky, classic rock, video games and playing my guitar
+- ⚡ Fun facts: I love cooking 🍜, scotch whisky 🥃, classic rock 🎧, video games 🎮 and playing my guitar 🎸
 
 ### Connect with me:
 
