@@ -61,7 +61,7 @@ Published:
 - 🇺🇸 <a href="https://helboukkouri.github.io/blog/assets/pdf/acl_srw_2019_en.pdf">Embedding Strategies for Specialized Domains: Application to Clinical Entity Recognition</a>
 - 🇫🇷 <a href="https://helboukkouri.github.io/blog/assets/pdf/recital_2020_fr.pdf">Ré-entraîner ou entraîner soi-même ? Stratégies de pré-entraînement de BERT en domaine médical</a>
 
-Accepted @ AACL/COLING2020:
+Accepted @COLING2020:
 
 - 🇺🇸 <a href="https://coling2020.org/">CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters</a>
 
