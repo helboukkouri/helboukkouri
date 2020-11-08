@@ -1,6 +1,6 @@
 ### Hi there, I'm Hicham EL BOUKKOURI 👋
 
-[![Website](https://img.shields.io/website?label=https%3A%2F%2Fhelboukkouri.github.io%2Fblog%2F&style=for-the-badge&url=https%3A%2F%2Fhelboukkouri.github.io%2Fblog%2F)](https://helboukkouri.github.io/blog/)
+[![Website](https://img.shields.io/website?label=https%3A%2F%2Fhelboukkouri.github.io%2F&style=for-the-badge&url=https%3A%2F%2Fhelboukkouri.github.io%2F)](https://helboukkouri.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/helboukkouri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhelboukkouri&screen_name=helboukkouri)
 
 ## I'm a PhD Student @LIMSI, University of Paris-Saclay, CNRS (France)
